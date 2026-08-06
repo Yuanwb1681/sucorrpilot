@@ -7,3 +7,15 @@ Two implementations are provided:
 
 - `sucorrpilot` : serial version
 - `sucorrpilot_omp` : OpenMP parallel version
+
+## Example
+
+A simple example is provided in the `example/` directory.
+
+The example demonstrates:
+
+- seismic data input in SU format
+- checking the output correlation result
+- pilot signal
+
+See:example
