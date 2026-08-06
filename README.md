@@ -5,12 +5,14 @@ The program reads seismic data in Seismic Unix (SU) format and performs waveform
 
 Two implementations are provided:
 
-- `sucorrpilot` : serial version
-- `sucorrpilot_omp` : OpenMP parallel version
+- [sucorrpilot](sucorrpilot/) : serial version
+
+- [sucorrpilot_omp](sucorrpilot_omp/) : OpenMP parallel version
+
 
 ## Example
 
-A simple example is provided in the `example/` directory.
+A simple example is provided in the [example](example/) directory.
 
 The example demonstrates:
 
@@ -18,4 +20,7 @@ The example demonstrates:
 - pilot signal preparation
 - checking the output correlation result
 
+
 See [example/README.md](example/README.md) for detailed instructions.
+
+
