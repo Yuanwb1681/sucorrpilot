@@ -15,8 +15,7 @@ A simple example is provided in the `example/` directory.
 The example demonstrates:
 
 - seismic data input in SU format
+- pilot signal preparation
 - checking the output correlation result
-- pilot signal
 
-See:example/README.md
-for detailed instructions.
+See [example/README.md](example/README.md) for detailed instructions.
