@@ -18,4 +18,5 @@ The example demonstrates:
 - checking the output correlation result
 - pilot signal
 
-See:example
+See:example/README.md
+for detailed instructions.
